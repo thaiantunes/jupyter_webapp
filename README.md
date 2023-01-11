@@ -6,6 +6,7 @@ This simple web app showcases the following:
 - Setting up an **virtual environment**
 - Simple Python coding and testing (**unit tests**)
 - **Jupyter** Widgets and **Voila** extension for rendering the web app.
+- **Binder** to set up an online environment for the Jupyter notebook.
 
 And it was really fun to make =)
 
